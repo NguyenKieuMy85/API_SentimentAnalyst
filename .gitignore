@@ -1,0 +1,5 @@
+venv/
+*.safetensors
+sentiment_phobert_model/
+__pycache__/
+*.pyc
